@@ -12,19 +12,20 @@ redirect_from:
 Education
 ======
 * B.S. in Environmental Science, University of Maryland Baltimore County, 2023
+* A.A. in General Studies, Community College of Baltimore County, 2020
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Diversity and Equity Intern
+  * Howard County Conservancy
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Camp Director Kylie Weinel
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2022: Volunteer Data Collector
+  * University of Maryland Baltimore County
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Matthew Baker
   
 Skills
 ======
@@ -55,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
