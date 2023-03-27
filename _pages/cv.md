@@ -19,22 +19,37 @@ Work experience
 ======
 * Summer 2022: Diversity and Equity Intern
   * Howard County Conservancy
-  * Duties included: Tagging issues
+  * Duties included: Aiding in coordinating lesson plans, supervising children, supporting senior staff
   * Supervisor: Camp Director Kylie Weinel
 
 * Fall 2022: Volunteer Data Collector
   * University of Maryland Baltimore County
-  * Duties included: Merging pull requests
+  * Duties included: Measuring and recording DBH data
   * Supervisor: Professor Matthew Baker
+
+* Fall 2021-Present: Server
+  * Texas Roadhouse
+  * Duties included: Providing excellent customer service, working collaboratively with other staff
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Effective Communicator
+* Problem-Solving 
+* Customer Service
+* Attention to Detail
+* Collabration and Teamwork
+* Proficient in Computer Softwares/Programs
+  * ArcGIS
+  * R Programming language
+  * Q-GIS
+  * Microsoft Excel
+
+Service and leadership
+======
+* Volunteer at Strength to Love 2 Urban Farm (2021)
+* Club member of UMBC's environmental task force (2021)
+
+
 
 Publications
 ======
