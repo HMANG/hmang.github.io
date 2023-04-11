@@ -1,9 +1,8 @@
 ---
-title: "Mappy map"
-excerpt: "Short description of portfolio poopie item number 1<br/><img src='/images/500x300.png'>"
+title: "Location Analysis Map of Baltimore"
+excerpt: "Short description of portfolio poopie item number 1<br/><img src='/images/ResizedAnalysis.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-![Alt text](/images/xxx.png"nametheimage")
+This is a map exploring three different variables of Baltimore City, MD to analyze where all variables overlap. 
+![Alt text](/images/ResizedAnalysis.png"ResizedAnalysis")
