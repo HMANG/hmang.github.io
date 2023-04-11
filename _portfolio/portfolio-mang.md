@@ -1,6 +1,6 @@
 ---
 title: "Location Analysis Map of Baltimore"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ResizedAnalysis.png'>"
+excerpt: "Uitlizing location analysis with Vectors to assess different variables for Baltimore City. <br/><img src='/images/ResizedAnalysis.png'>"
 collection: portfolio
 ---
 This is a map exploring three different variables of Baltimore City, MD to analyze where all variables overlap. 
