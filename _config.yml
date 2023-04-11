@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ha Mang's Portfolio (demo)"
+title                    : "Ha Mang"
 title_separator          : "-"
 name                     : &name "Ha Mang"
 description              : &description "Undergrad majoring in Environmental Science at UMBC"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ha Mang"
   avatar           : "IMG-2301.jpg"
-  bio              : "Environmental Scientist"
+  bio              : "Graduate from UMBC's Geography and Environmental Science Department"
   location         : "Baltimore, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
