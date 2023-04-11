@@ -1,7 +1,7 @@
 ---
-title: "Location Analysis Map of Baltimore"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ResizedAnalysis.png'>"
+title: "Investment Properties of Interest in Baltimore"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/properties.png'>"
 collection: portfolio
 ---
-This is a map exploring three different variables of Baltimore City, MD to analyze where all variables overlap. 
-![Alt text](/images/ResizedAnalysis.png"ResizedAnalysis")
+This is a map exploring investment properties of interest in Baltimore City, MD to assess which neighborhoods were more likely to be considered.
+![Alt text](/images/properties.png"Properties of Interests in Baltimore")
