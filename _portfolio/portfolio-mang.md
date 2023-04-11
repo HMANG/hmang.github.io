@@ -4,4 +4,4 @@ excerpt: "Uitlizing location analysis with Vectors to assess different variables
 collection: portfolio
 ---
 This is a map exploring three different variables of Baltimore City, MD to analyze where all variables overlap. 
-![Alt text](/images/ResizedAnalysis.png"ResizedAnalysis")
+![Location Analysis Map of Baltimore](/images/ResizedAnalysis.png"ResizedAnalysis")
