@@ -49,8 +49,3 @@ Service and leadership
 * Volunteer at Strength to Love 2 Urban Farm (2021)
 * Club member of UMBC's environmental task force (2021)
 
-
-  
-Service and leadership
-======
-* 
