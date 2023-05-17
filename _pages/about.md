@@ -14,14 +14,14 @@ Skills and Experience
 * Geographical Analysis: Proficient in utilizing advanced software tools such as ARCGis, QGIS, and R-studio to analyze spatial data and generate insightful visual representations. With an understanding in the importance of data analysis, the skills I've developed using these softwares empowers informed decision-making as our society is confronted with complex environmental challenges.
 
 My work experiences in customer service has honed exceptional communication and interpersonal skills. I excel at conveying information effectively and engaging with diverse audiences, making me an asset in collaborative work environments. I naturally build relationships and actively try to foster an inclusive atmosphere.
-During my internship at the Howard County Conservancy, I served as a diversity, equity, and inclusion staff member. In my role, I successfully coordinated education lessons, ensuring inclusivity and accessibility for all participants. Through my efforts, I made a significant impact on promoting awareness and understanding of environmental issues within a diverse community.
+During my internship at the Howard County Conservancy, I served as a diversity, equity, and inclusion staff member. In my role, I successfully coordinated education lessons, ensuring inclusivity and accessibility for all participants. Through my efforts, I made an impact on promoting awareness and understanding of environmental issues within a diverse community.
 Because environmental stewardship holds immense importance to me, particularly on an international scale, I am deeply committed to addressing global environmental challenges through my skills and experiences. I believe in advocating for cultural relativism and fostering collaboration between nations as we strive to create a better, sustainable future for our planet.
 
 To see previous works I've done and further details about my skillset, view my [portfolio](https://hmang.github.io/portfolio/) and [resume](https://hmang.github.io/cv/).
 
 Contact Ha Mang
 ======
-The combination of academic qualifications, technical skills, interpersonal abilities, and commitment to diversity and inclusion I possess make me a well-rounded and promising professional. My passion for environmental science and dedication to creating positive change positions makes me an asset to any team or organization working towards sustainable and inclusive practices.
+The combination of academic qualifications, technical skills, interpersonal abilities, and commitment to diversity and inclusion I possess make me a well-rounded and promising professional. My passion for environmental science and dedication to creating positive changes makes me an asset to any team or organization working towards sustainable and inclusive practices.
 
 I welcome the opportunity to explore potential collaborations and discuss how my skills and expertise can contribute to your organization's success. Please feel free to reach out to me using the contact information provided below. I am available for further discussion, interviews, or any inquiries you may have.
 
