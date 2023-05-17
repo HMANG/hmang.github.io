@@ -22,4 +22,7 @@ To see previous works I've done and further details about my skillset, view my [
 Contact Ha Mang
 ======
 The combination of academic qualifications, technical skills, interpersonal abilities, and commitment to diversity and inclusion I possess make me a well-rounded and promising professional. My passion for environmental science and dedication to creating positive change positions makes me an asset to any team or organization working towards sustainable and inclusive practices.
-To get in contact, reach out via the links provided on the left column. 
+I welcome the opportunity to explore potential collaborations and discuss how my skills and expertise can contribute to your organization's success. Please feel free to reach out to me using the contact information provided below. I am available for further discussion, interviews, or any inquiries you may have.
+
+Contact Information:
+Email: [ham18@umbc.edu]
