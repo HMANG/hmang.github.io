@@ -5,4 +5,4 @@ collection: portfolio
 ---
 This is a map exploring three different variables of Baltimore City, MD to analyze where all variables overlap. 
 
-![Location Analysis Map of Baltimore](/images/ResizedAnalysis.png)
+![Location Analysis Map of Baltimore](/images/Lab8.png)
