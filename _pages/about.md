@@ -27,4 +27,4 @@ I welcome the opportunity to explore potential collaborations and discuss how my
 
 Contact Information:
 
-Email: ham18@umbc.edu
+Email: [ham18@umbc.edu](ham18@umbc.edu) 
