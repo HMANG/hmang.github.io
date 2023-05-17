@@ -17,9 +17,9 @@ My work experiences in customer service has honed exceptional communication and 
 During my internship at the Howard County Conservancy, I served as a diversity, equity, and inclusion staff member. In my role, I successfully coordinated education lessons, ensuring inclusivity and accessibility for all participants. Through my efforts, I made a significant impact on promoting awareness and understanding of environmental issues within a diverse community.
 Because environmental stewardship holds immense importance to me, particularly on an international scale, I am deeply committed to addressing global environmental challenges through my skills and experiences. I believe in advocating for cultural relativism and fostering collaboration between nations as we strive to create a better, sustainable future for our planet.
 
-To explore previous works I've done click on my [portfolio](https://hmang.github.io/portfolio/) and to inquire about more details about my skills and experience, click [here](https://hmang.github.io/cv/).
+To see previous works I've done and further details about my skillset, view my [portfolio](https://hmang.github.io/portfolio/) and [resume](https://hmang.github.io/cv/).
 
 Contact Ha Mang
 ======
 The combination of academic qualifications, technical skills, interpersonal abilities, and commitment to diversity and inclusion I possess make me a well-rounded and promising professional. My passion for environmental science and dedication to creating positive change positions makes me an asset to any team or organization working towards sustainable and inclusive practices.
-To get in contact with me, 
+To get in contact, reach out via the links provided on the left column. 
