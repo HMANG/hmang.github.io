@@ -1,6 +1,6 @@
 ---
 title: "Parks in Philadelphia"
-excerpt: "Uitlizing location analysis with Vectors to assess different variables for Baltimore City. <br/><img src='/images/ResizedAnalysis.png'>"
+excerpt: "Uitlizing location analysis with Vectors to assess different variables for Baltimore City. <br/><img src='/images/Race_Phil_Correct.png'>"
 collection: portfolio
 ---
 My project aims to explore the spatial distribution of urban parks in Philadelphia, PA in relation to variables such as race, income, and more. Prior GES courses have emphasized the importance of these spaces, which can address health inequality and contribute to sustainable urbanization by providing environmental, economic, and social benefits. The study by Alizadehtazi et al. titled "Urban Park Usage During the COVID-19 Pandemic" served as inspiration, highlighting the significance of parks during the pandemic. Ken Steif's analysis on equitable park accessibility in Philadelphia also guided the methodology of my study. 
@@ -8,6 +8,8 @@ My project aims to explore the spatial distribution of urban parks in Philadelph
 Data and Methods
 ======
 The park dataset was sourced from opendata.arcgis.com and opendataphilly.com, while census data was obtained from the American Census Survey using the tidycensus package in R-studio. The bulk of the analysis was conducted in R-Studio, and the resulting maps were finalized using QGIS. Two layouts were created in QGIS. The first layout examined the distribution of neighborhood parks in relation to the percentages of White and Black populations across census tracts. The second layout compared household income and property value.
+![Race Context](/images/Race_Phil_Correct.png)
+![Economic Context](/images/IncProp.png)
 
 Results and Analysis 
 ======
