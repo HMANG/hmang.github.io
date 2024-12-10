@@ -17,7 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2022: Diversity and Equity Intern
+*  Summer 2024: Environmental Technician
+  * Wetlands Studies and Solutions, Inc.
+  * Duties included:
+    * Implementing physical, chemical, or biological methods to control or eradicate invasive species
+    * Assisting science staff with vegetation monitoring and wetland/forest stand delineations
+*  Fall 2023: Junior GIS Analyst
+  * Atkins North America
+  * Duties included:
+    * Organizing and maintaining spatial and non-spatial datasets from various sources.
+    * Conducting spatial analysis such as proximity analysis, buffering, and overlays to support project goals.
+  * Supervisor: Keith Botchie 
+*  Summer 2022: Diversity and Equity Intern
   * Howard County Conservancy
   * Duties included: Aiding in coordinating lesson plans, supervising children, supporting senior staff
   * Supervisor: Camp Director Kylie Weinel
